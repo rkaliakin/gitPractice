@@ -6,19 +6,3 @@ Fusce gravida lectus et consequat pretium. Nulla nec lorem dolor. Nulla tristiqu
 Donec a neque mauris. Etiam ligula purus, pulvinar ac magna vel, lobortis porta urna. Ut et justo eu velit ultricies porta. 
 Curabitur accumsan rhoncus gravida. Vestibulum vulputate ultrices ligula, nec imperdiet arcu volutpat quis. Nam molestie mi non placerat varius. 
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
-
-Suspendisse tortor eros, blandit nec diam mattis, vestibulum eleifend diam. Phasellus blandit tempus urna vel tempus. 
-Praesent tristique est lacinia lorem sodales feugiat. Mauris imperdiet est ut arcu tincidunt, a porta risus tempus. 
-Nullam arcu erat, elementum in venenatis bibendum, dignissim vel diam. Curabitur venenatis, elit at condimentum sodales, 
-nulla dolor iaculis velit, ac semper sapien sapien a nisi. Donec lectus leo, molestie vel odio vitae, maximus interdum velit. 
-Donec pellentesque, massa eu malesuada consectetur, ipsum massa tincidunt diam, vel tincidunt turpis sapien nec eros. Phasellus massa nisi, 
-ullamcorper non tristique nec, viverra id nisl. Morbi ullamcorper, lacus sit amet cursus hendrerit, lorem ante dapibus nisl, 
-non bibendum leo enim vel enim. Quisque quis eros auctor quam lacinia malesuada et quis metus. Nunc nec congue arcu. 
-Morbi egestas arcu non metus commodo mattis et ac augue.
-
-Nullam fringilla imperdiet faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
-Proin et risus pulvinar, iaculis lectus in, mollis felis. Quisque id porttitor turpis. In eu velit in lacus sollicitudin volutpat. 
-Aenean eget libero facilisis elit scelerisque laoreet. Curabitur vitae eros est. Morbi lacinia lorem sed sem sollicitudin facilisis. 
-Etiam vel arcu auctor, accumsan ante ut, lobortis ligula. Vestibulum non mauris lorem. Phasellus ut laoreet lorem. Morbi blandit suscipit sapien at lacinia. 
-Pellentesque tincidunt urna malesuada egestas consectetur. Cras eros augue, dapibus eget accumsan a, gravida in dui. Cras vel mauris id lorem posuere hendrerit. 
-Donec aliquet enim quis tortor vestibulum mattis.
